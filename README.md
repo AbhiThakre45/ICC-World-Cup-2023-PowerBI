@@ -63,7 +63,7 @@ Cricket performance data is often unstructured and difficult to analyze quickly.
 
 ## 🧰 Tools Used
 - Microsoft Power BI Desktop
-- Power Query for data shaping
+- Power Query Editor for data Cleaning
 - DAX for calculated KPIs
 - Bookmarks, Buttons & Page Navigation
 
@@ -106,5 +106,8 @@ Cricket performance data is often unstructured and difficult to analyze quickly.
 
 ---
 
-## 🔗 Project Repository Structure
+## 📢 Connect
+If you like the project, consider giving a ⭐ on the repo or connect on [LinkedIn](https://www.linkedin.com/in/abhishek-thakre13/)!
+
+---
 
