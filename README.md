@@ -73,7 +73,7 @@ Cricket performance data is often unstructured and difficult to analyze quickly.
 
 | Home Page | Batting Page | Bowling Page |
 |-----------|---------------|----------------|
-| ![Home](Front_Page.png) | ![Batting](Batting_Dashboard.png) | ![Bowling](Bowling_Dashboard.png) |
+| ![Home](Front_page.png) | ![Batting](Batting_Dashboard.png) | ![Bowling](Bowling_Dashboard.png) |
 
 ---
 
@@ -88,7 +88,7 @@ Cricket performance data is often unstructured and difficult to analyze quickly.
 
 - [ICC_WorldCup2023_Dashboard.pbix ](ICC_WorldCup2023_Dashboard.pbix) – Power BI project file
 
-- [Front_Page.png](Front_Page.png) – Front page screenshot
+- [Front_Page.png](Front_page.png) – Front page screenshot
 
 - [Batting_Dashboard.png](Batting_Dashboard.png) – Batting dashboard screenshot
 
