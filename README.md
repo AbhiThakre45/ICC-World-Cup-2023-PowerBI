@@ -86,14 +86,20 @@ Cricket performance data is often unstructured and difficult to analyze quickly.
 
 ## 📁 Files Included
 
-- `ICC_WorldCup2023_Dashboard.pbix` – Power BI Dashboard file  
-- `/Screenshots/` – Folder containing dashboard screenshots  
-- `/Data/` *(Optional)* – Batting and bowling data CSVs (if public)
+- [ICC_WorldCup2023_Dashboard.pbix ](ICC_WorldCup2023_Dashboard.pbix) – Power BI project file
+
+- [Front_Page.png](Front_Page.png) – Front page screenshot
+
+- [Batting_Dashboard.png](Batting_Dashboard.png) – Batting dashboard screenshot
+
+- [Bowling_Dashboard.png](Bowling_Dashboard.png) – Bowling dashboard screenshot
+
+- [ICC_WorldCup_Demo.mp4](Icc_Cricket_World_Cup__Project_Video.mp4) – Demo video walkthrough
 
 ---
 
 ## 🧭 How to Use
-1. Open the `.pbix` file in Power BI Desktop.
+1. Open the [ICC_WorldCup2023_Dashboard.pbix ](ICC_WorldCup2023_Dashboard.pbix) – file in Power BI Desktop.
 2. Use navigation buttons on the **Home Page** to switch dashboards.
 3. Apply slicers on Batting and Bowling pages for custom analysis.
 4. View KPIs and charts for deeper insights.
