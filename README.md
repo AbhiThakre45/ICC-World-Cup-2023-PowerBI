@@ -73,7 +73,7 @@ Cricket performance data is often unstructured and difficult to analyze quickly.
 
 | Home Page | Batting Page | Bowling Page |
 |-----------|---------------|----------------|
-| ![Home](Screenshots/home_page.png) | ![Batting](Screenshots/batting_page.png) | ![Bowling](Screenshots/bowling_page.png) |
+| ![Home](Front_Page.png) | ![Batting](Batting_Dashboard.png) | ![Bowling](Bowling_Dashboard.png) |
 
 ---
 
