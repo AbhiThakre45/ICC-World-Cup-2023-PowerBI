@@ -79,7 +79,7 @@ Cricket performance data is often unstructured and difficult to analyze quickly.
 
 ## 🎥 Demo Video
 
-📽️  [Watch Project Demo](Icc_Cricket_World_Cup__Project_Video.mp4)
+📽️  [Watch Project Demo](ICC_Cricket_World_Cup2023_Video.mp4)
 
 
 ---
@@ -94,7 +94,7 @@ Cricket performance data is often unstructured and difficult to analyze quickly.
 
 - [Bowling_Dashboard.png](Bowling_Dashboard.png) – Bowling dashboard screenshot
 
-- [ICC_WorldCup_Demo.mp4](Icc_Cricket_World_Cup__Project_Video.mp4) – Demo video walkthrough
+- [ICC_WorldCup_Demo.mp4](ICC_Cricket_World_Cup2023_Video.mp4) – Demo video walkthrough
 
 ---
 
