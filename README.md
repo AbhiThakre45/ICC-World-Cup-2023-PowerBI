@@ -1,4 +1,4 @@
-# 🏏 **ICC Cricket World Cup 2023 Power BI Dashboard**
+# 🏏 **ICC Cricket World Cup 2023 Power BI Project**
 
 ---
 
